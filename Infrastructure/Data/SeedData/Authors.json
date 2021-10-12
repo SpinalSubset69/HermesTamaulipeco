@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "Luis Esteban",
+    "UserName" : "alastor69",
+    "Password" : "1234",
+    "Email" : "alastorlml@gmail.com",
+    "About" : "Acerda de mi"
+  },
+  {
+    "Id": 2,
+    "Name": "Jessica",
+    "UserName" : "JessyHOT",
+    "Password" : "1234",
+    "Email" : "jessy@gmail.com",
+    "About" : "Acerda de mi"
+  },
+  {
+    "Id": 3,
+    "Name": "Alexia",
+    "UserName" : "alexpi",
+    "Password" : "1234",
+    "Email" : "alexia69@gmail.com",
+    "About" : "Acerda de mi"
+  },
+  {
+    "Id": 4,
+    "Name": "Alan",
+    "UserName" : "iliezap",
+    "Password" : "1234",
+    "Email" : "iliezap@gmail.com",
+    "About" : "Acerda de mi"
+  }
+]

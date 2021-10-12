@@ -1,0 +1,41 @@
+[
+  {
+    "Id" : 1,
+    "Header": "Nota 1",
+    "Summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Image": "Images/Articles/a-1.jpg",
+    "Date": "09-07-1997",
+    "AuthorId" : 1,
+    "CategoryId" : 1
+  },{
+    "Id" : 2,
+    "Header": "Nota 2",
+    "Summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Image": "Images/Articles/mk-1.jpg",
+    "Date": "09-07-1998",
+    "AuthorId" : 2,
+    "CategoryId" : 2
+  },
+  {
+    "Id" : 3,
+    "Header": "Nota 3",
+    "Summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Image": "Images/Articles/s-1.jpg",
+    "Date": "09-07-1999",
+    "AuthorId" : 2,
+    "CategoryId" : 3 
+  },
+  {
+    "Id" : 4,
+    "Header": "Nota 4",
+    "Summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Image": "Images/Articles/sb-1.jpg",
+    "Date": "09-07-2000",
+    "AuthorId" : 3,
+    "CategoryId" : 4
+  }
+]

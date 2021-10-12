@@ -1,0 +1,18 @@
+[
+    {
+        "Id" : 1,
+        "Name" : "Estatal"
+    },
+    {
+        "Id" : 2,
+        "Name" : "Regional"
+    },
+    {
+        "Id" : 3,
+        "Name" : "Nacional"
+    },
+    {
+        "Id" : 4,
+        "Name" : "Internacional"
+    }
+]

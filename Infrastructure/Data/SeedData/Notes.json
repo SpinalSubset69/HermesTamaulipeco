@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "IdArticle": 1,
+    "IdAuthor" : 1
+  },
+  {
+    "Id": 2,
+    "IdArticle": 2,
+    "IdAuthor" : 1
+  },
+  {
+    "Id": 3,
+    "IdArticle": 3,
+    "IdAuthor" : 2
+  },
+  {
+    "Id": 4,
+    "IdArticle": 4,
+    "IdAuthor" : 3
+  }
+]

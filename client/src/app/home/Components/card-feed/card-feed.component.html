@@ -1,0 +1,19 @@
+
+<div *ngIf="article" class="card-container shadow-lg bg-body rounded mb-3">
+  <div class="card-content d-flex p-5 flex-column justify-content-center align-items-center">
+    <h3 class="text-primary">{{ article.category }}</h3>
+    <h1>{{ article.header }}</h1>
+    <p>{{ article.summary }}</p>
+    <a href="#">Seguir Leyendo...</a>
+  </div>
+   
+<div class="image position-relative">
+    <img src="{{ article.image }}" style="height: 100%; width: 100%;" alt="" />
+    <div class="d-flex justify-content-center align-items-center hover-overlay" style="height: 100%;">
+      <button style="font-size: 12px;" type="button" class="btn btn-primary d-flex flex-column justify-content-center align-items-center">
+        <i class="fa fa-newspaper-o mx-2"> </i>
+        Leer Noticia..
+      </button>
+    </div>
+  </div>
+</div>

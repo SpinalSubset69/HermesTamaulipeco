@@ -1,0 +1,36 @@
+.search-container{
+    position: relative;
+    height: 50px;
+}
+
+.search-container .inpt{
+    background-color: white;
+    font-size: 18px;
+    height: 45px;
+    width: 45px;
+    transition: width 0.3s ease;
+}
+
+.btn-search{
+    background-color: #fff;
+    cursor: pointer;
+    border: 0;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    transition: transform 0.3s ease;
+}
+
+.btn-search:focus, .inpt:focus{
+    outline: none;
+}
+
+.search-container.active .inpt{
+    width: 200px;
+}
+
+.search-container.active .btn-search{
+    transform: translateX(200px);
+}
